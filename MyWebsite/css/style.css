@@ -1,0 +1,23 @@
+p
+{
+  font-family: monospace;
+  text-align: center;
+  text-shadow: black;
+  background-color: #FFFFFF;
+}
+
+body
+{
+  background-color: #00FF00;
+  text-align: center;
+}
+
+header
+{
+  background: #FFFFFF;
+}
+
+footer
+{
+  background-color: #FFFF00;
+}
